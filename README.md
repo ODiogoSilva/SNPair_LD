@@ -34,3 +34,14 @@ A complete run of `SNPair_LD.R` will produce the following output files:
 
 ## Output examples
 
+#### Heatmap of pairwise D' for all SNPs
+
+<img src="https://github.com/ODiogoSilva/SNPair_LD/raw/master/examples/teste_Dc.pdf">
+
+#### Heatmap of pairwise D' for statistically significant SNP pairs
+
+<img src="https://github.com/ODiogoSilva/SNPair_LD/raw/master/examples/teste_Dc_sig.pdf">
+
+#### Distribution of pairwise D' values
+
+<img src="https://github.com/ODiogoSilva/SNPair_LD/raw/master/examples/teste_Dc_hist.pdf">
